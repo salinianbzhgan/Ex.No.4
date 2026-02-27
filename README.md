@@ -3,13 +3,13 @@
 ### REGISTER NUMBER : 212223220091
 ### Aim: 
 To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 
-1.Comparative Analysis Prompt 
-2. Experiential Perspective Prompt
-3. Everyday Functioning Prompts 
-4. Universal Prompt Structures Prompt Refinements 
-5. Prompt Size Limitations design an AI 
+  1.  Comparative Analysis Prompt 
+  2.  Experiential Perspective Prompt
+  3.  Everyday Functioning Prompts 
+  4.  Universal Prompt Structures Prompt Refinements 
+  5.  Prompt Size Limitations design an AI 
 
-### Explanation 
+### Explanation :
 Prompt engineering involves designing structured inputs to generate accurate, meaningful, and actionable responses from AI systems. In this experiment, the use case of Manufacturing Automation with IoT is selected.
 
 The system focuses on automating industrial processes using IoT devices and embedded controllers to monitor machinery, predict failures, optimize production, and reduce energy consumption. Different prompt types are applied to evaluate how AI generates structured, clear, and relevant responses for industrial applications.
@@ -103,4 +103,5 @@ Prevents information overload and improves clarity and response quality.
 <img width="821" height="329" alt="image" src="https://github.com/user-attachments/assets/b91bd1c5-88bf-4c30-be24-d2c6d2a419ee" />
 
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result: 
+The various types of Prompts are executed successfully with generated the report.
