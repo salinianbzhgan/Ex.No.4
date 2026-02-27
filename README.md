@@ -17,13 +17,15 @@ The system focuses on automating industrial processes using IoT devices and embe
 ## Selected Use Case – Manufacturing Automation with IoT
 
 Background Information
-    * System: IoT-based manufacturing automation
-    * Primary Actor: Production line operators and plant managers
-    * Secondary Actor: Maintenance engineers and AI monitoring tools
-    * Goals: Improve production efficiency, reduce downtime, and optimize energy use
-    * Stakeholders: Manufacturing executives, product managers, and operations teams
-    * Preconditions: Machines connected to IoT sensors, AI monitoring system active
-    * Triggers: Machine performance drops, or predictive alerts indicate potential failure
+
+  *  System: IoT-based manufacturing automation
+  *  Primary Actor: Production line operators and plant managers
+  *  Secondary Actor: Maintenance engineers and AI monitoring tools
+  * Goals: Improve production efficiency, reduce downtime, and optimize energy use
+  *  Stakeholders: Manufacturing executives, product managers, and operations teams
+  *   Preconditions: Machines connected to IoT sensors, AI monitoring system active
+  *   Triggers: Machine performance drops, or predictive alerts indicate potential failure
+    
 ## Procedure:
 ## 1. Comparative Analysis Prompt
 Definition: Asking for a comparison between two or more concepts highlighting similarities and differences.
@@ -32,6 +34,7 @@ Prompt:
 Compare and contrast predictive maintenance and reactive maintenance in manufacturing.
 
 Output:
+
 <img width="827" height="387" alt="image" src="https://github.com/user-attachments/assets/7160432d-4dda-49e9-a018-38e68b2d97a4" />
 
 Evaluation:
@@ -94,7 +97,9 @@ Refined Prompt: List 10 use cases at a time.
 
 Evaluation:
 Prevents information overload and improves clarity and response quality.
-Evaluation Method – Rubrics
+
+# Evaluation Method – Rubrics
+
 <img width="821" height="329" alt="image" src="https://github.com/user-attachments/assets/b91bd1c5-88bf-4c30-be24-d2c6d2a419ee" />
 
 
